@@ -3,7 +3,7 @@
  📌 Project Overview
 ecoScan4x is a lightweight Python-based reconnaissance tool designed to evaluate the security posture of web applications. It automates the inspection of HTTP response headers to identify misconfigurations that leave websites vulnerable to common attack vectors.
 
-This tool is built to align with **ISO/IEC 27001 Annex A.12 (Operations Security) and OWASP Top 10 standards.
+This tool is built to align with ISO/IEC 27001 Annex A.12 (Operations Security) and OWASP Top 10 standards.
 
 🚀 Key Features
 - Automated Risk Assessment: Categorizes missing headers into High, Medium, and Low risk levels.
